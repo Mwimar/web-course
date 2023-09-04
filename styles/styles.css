@@ -1,0 +1,12 @@
+main{
+margin: 200px auto 70px auto;
+border: 10px solid greenyellow;
+}
+
+img{
+    width: 200px;
+        height: 200px;
+        border-radius: 80px;
+        border: 10px solid greenyellow;
+        margin: -105px auto 0 auto;
+}
